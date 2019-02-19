@@ -1,0 +1,19 @@
+﻿Hitelesítési technikák bemutatása
+
+Webes klines-server alkalmazások felhasználói hitelesítése.
+feladat: Hitelesítési technológia bemutatása; Titkosítási és hash algoritmusok, megoldások bemutatása. Felhasználói adatok titkosított tárolása. Kliens oldali sütik és server oldali sessionok alkalmazása. Felhasználói jogkörök elkülönítése. Felhasználó azonosítása közösségi oldalak adataival (pl: Facebook, Google). Fizetési techológia alkalmazása (paypal). A teljes folyamat dokumentálása.
+
+Egy weblap //todo téma kitalálása
+
+Egy egyszerű weblap, amin lesz egy egyszerű login, és le kell programozni azt, hogy betudjunk lépni Google fiókkal vagy Facebookkal
+Le kell kérdezni a nevet és azt kell majd beilleszteni az adatbázisba
+
+Mérföldkövek:
+- weblap témájának kitalálása
+- weblap vázának megírása
+- css megírása, finomítás
+- sessionök megírása
+- Facebook, valamint Google beimplementálása
+- finomítás, ellenőrzés
+- dokumentáció megírása
+
